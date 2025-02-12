@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>ITCC 11.1 ACT1 Project</title>
+  ITCC 11.1 ACT1 Project
 </head>
 <body>
   Welcome to my ITCC 11.1 ACT1 Project.
